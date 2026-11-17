@@ -1,7 +1,3 @@
-
-Page
-1
-of 4
 ///
 // jpegrw.c
 // Based on example code found here:
