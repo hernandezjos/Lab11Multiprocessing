@@ -27,3 +27,4 @@ void setPixelRGB(imgRawImage *image, unsigned int x, unsigned int y, unsigned ch
 void setPixelCOLOR(imgRawImage *image, unsigned int x, unsigned int y, unsigned int rgb);
 
 #endif
+

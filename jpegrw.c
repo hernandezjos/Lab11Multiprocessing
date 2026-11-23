@@ -223,3 +223,4 @@ int storeJpegImageFile(const imgRawImage *lpImage, const char *lpFilename) {
 
     return 0;
 }
+

@@ -33,3 +33,4 @@ Key implementation details:
 sudo apt update
 sudo apt install libjpeg-dev ffmpeg
 
+
