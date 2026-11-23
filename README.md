@@ -18,13 +18,13 @@ Key implementation details:
 
 ![Runtime vs. Number of Processes](mandeltimes.png)
 
-* Shows
-P(1) = 258.172 s
-P(2) = 126.384 s
-P(5) = 49.862 s
-P(10) = 32.544 s
-P(13) = 28.932 s
-P(20) = 31.52 s
+* Shows 
+* P(1) = 258.172 s
+* P(2) = 126.384 s
+* P(5) = 49.862 s
+* P(10) = 32.544 s
+* P(13) = 28.932 s
+* P(20) = 31.52 s
 
 * The graph demonstrates the increasing efficiency of using more processors for complex calculations. Depending on the amount of processors in the device running the program it gets more efficient at different points. Since there are only 14 processors in the laptop the plot was made from, the system is fastest around that amount of processes. Depending on the device, the runtime will always be fastest around the max processors without going over that amount. After passing the amount of physical processors the speed will instead go back up as the processes fight for priority.
 
